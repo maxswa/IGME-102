@@ -1,0 +1,7 @@
+C:\Users\mkswa\Documents\IGME 102\Swartwout_PE3\Swartwout_PE3\bin\Debug\Swartwout_PE3.exe.config
+C:\Users\mkswa\Documents\IGME 102\Swartwout_PE3\Swartwout_PE3\bin\Debug\Swartwout_PE3.exe
+C:\Users\mkswa\Documents\IGME 102\Swartwout_PE3\Swartwout_PE3\bin\Debug\Swartwout_PE3.pdb
+C:\Users\mkswa\Documents\IGME 102\Swartwout_PE3\Swartwout_PE3\obj\Debug\Swartwout_PE3.csprojResolveAssemblyReference.cache
+C:\Users\mkswa\Documents\IGME 102\Swartwout_PE3\Swartwout_PE3\obj\Debug\Swartwout_PE3.csproj.CoreCompileInputs.cache
+C:\Users\mkswa\Documents\IGME 102\Swartwout_PE3\Swartwout_PE3\obj\Debug\Swartwout_PE3.exe
+C:\Users\mkswa\Documents\IGME 102\Swartwout_PE3\Swartwout_PE3\obj\Debug\Swartwout_PE3.pdb

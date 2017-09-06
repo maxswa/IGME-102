@@ -1,0 +1,9 @@
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\bin\Debug\netcoreapp1.1\Swartwout_PE1.deps.json
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\bin\Debug\netcoreapp1.1\Swartwout_PE1.runtimeconfig.json
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\bin\Debug\netcoreapp1.1\Swartwout_PE1.runtimeconfig.dev.json
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\bin\Debug\netcoreapp1.1\Swartwout_PE1.dll
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\bin\Debug\netcoreapp1.1\Swartwout_PE1.pdb
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\obj\Debug\netcoreapp1.1\Swartwout_PE1.csprojResolveAssemblyReference.cache
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\obj\Debug\netcoreapp1.1\Swartwout_PE1.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\obj\Debug\netcoreapp1.1\Swartwout_PE1.dll
+Z:\IGMProfile\Desktop\IGME 102\Swartwout_PE1\obj\Debug\netcoreapp1.1\Swartwout_PE1.pdb
